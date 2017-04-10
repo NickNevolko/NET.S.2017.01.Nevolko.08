@@ -1,0 +1,9 @@
+c:\users\nikol\documents\visual studio 2015\Projects\NET.S.2017.01.Nevolko.08\TaskTests\bin\Debug\TaskTests.dll
+c:\users\nikol\documents\visual studio 2015\Projects\NET.S.2017.01.Nevolko.08\TaskTests\bin\Debug\TaskTests.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\NET.S.2017.01.Nevolko.08\TaskTests\bin\Debug\nunit.framework.dll
+c:\users\nikol\documents\visual studio 2015\Projects\NET.S.2017.01.Nevolko.08\TaskTests\bin\Debug\Task.dll
+c:\users\nikol\documents\visual studio 2015\Projects\NET.S.2017.01.Nevolko.08\TaskTests\bin\Debug\Task.pdb
+c:\users\nikol\documents\visual studio 2015\Projects\NET.S.2017.01.Nevolko.08\TaskTests\bin\Debug\nunit.framework.xml
+c:\users\nikol\documents\visual studio 2015\Projects\NET.S.2017.01.Nevolko.08\TaskTests\obj\Debug\TaskTests.csprojResolveAssemblyReference.cache
+c:\users\nikol\documents\visual studio 2015\Projects\NET.S.2017.01.Nevolko.08\TaskTests\obj\Debug\TaskTests.dll
+c:\users\nikol\documents\visual studio 2015\Projects\NET.S.2017.01.Nevolko.08\TaskTests\obj\Debug\TaskTests.pdb
